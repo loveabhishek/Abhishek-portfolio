@@ -89,7 +89,7 @@ export default function App() {
                 <FiGithub />
               </a>
               <a
-                href="mailto:itz.abhishekkumar9@gmail.com"
+                href="mailto:abhishek.kumaar91@gmail.com"
                 className="hover:text-green-400 transition"
               >
                 <FiMail />
@@ -320,7 +320,7 @@ export default function App() {
 
             <div className="flex gap-4 text-2xl">
               <a
-                href="mailto:itz.abhishekkumar9@gmail.com"
+                href="mailto:abhishek.kumaar91@gmail.com"
                 className="hover:text-green-400"
               >
                 <FiMail />
