@@ -308,7 +308,7 @@ export default function App() {
               Connect with me through email or socials below 👇
             </p>
             <p className="text-gray-300 mb-2 flex items-center gap-2">
-              <FiMail className="text-green-400" /> itz.abhishekkumar9@gmail.com
+              <FiMail className="text-green-400" /> abhishek.kumaar91@gmail.com
             </p>
             <p className="text-gray-300 mb-2 flex items-center gap-2">
               <FiLinkedin className="text-green-400" />{" "}
