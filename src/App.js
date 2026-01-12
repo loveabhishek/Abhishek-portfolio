@@ -142,9 +142,7 @@ export default function App() {
             About <span className="text-green-400">Me</span>
           </h3>
           <p className="text-gray-400 mb-4">
-            I am a Software Developer who enjoys designing and building web
-            applications that solve real-world problems. My expertise lies in
-            JavaScript, React, Node.js, and databases.
+           I am a software developer who enjoys designing and building web applications that solve real-world problems. I work with JavaScript, React, Node.js, and databases to create reliable, scalable, and user-friendly software. I am driven by curiosity, teamwork, and continuous learning.
           </p>
           <p className="text-gray-400">
             I am driven by curiosity, teamwork, and a passion for delivering
@@ -155,7 +153,7 @@ export default function App() {
 
       <section id="skills" className="max-w-6xl mx-auto px-6 mt-20">
         <h3 className="text-2xl font-bold text-white mb-8 text-center">
-          My <span className="text-green-400">Skills</span>
+           <span className="text-green-400">Technical Skills</span>
         </h3>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="p-6 rounded-xl bg-gray-900/60 border border-gray-800">
@@ -175,7 +173,7 @@ export default function App() {
             <p className="text-gray-300">SQL, MongoDB</p>
           </div>
           <div className="p-6 rounded-xl bg-gray-900/60 border border-gray-800">
-            <h4 className="text-green-400 font-semibold mb-2">Frameworks</h4>
+            <h4 className="text-green-400 font-semibold mb-2">Frameworks and Library</h4>
             <p className="text-gray-300">React, Node.js, Express.js</p>
           </div>
         </div>
@@ -270,12 +268,10 @@ export default function App() {
 
           <article className="p-6 rounded-2xl bg-gray-900/60 border border-gray-800">
             <h4 className="font-semibold text-white">
-              Zerodha-like Trade Simulator
+             AI Workflow Automation Platform
             </h4>
             <p className="mt-2 text-gray-400">
-              Trading simulator mimicking core features of a retail trading
-              platform: real-time price tickers, portfolio P&L, order placement,
-              and charting. (Tech: React, Node.js, WebSockets, Chart.js)
+              Built a full-stack AI-based platform to automate workflows using trigger-based actions, Developed REST APIs and integrated AI logic for contextual decision-making (Tech:  React.js, Node.js, REST APIs, AI Integration)
             </p>
             <div className="mt-4">
               <a
@@ -285,7 +281,7 @@ export default function App() {
                 Demo
               </a>
               <a
-                href="https://github.com/loveabhishek"
+                href="https://ai-workflow-automation-platform-eqo.vercel.app/"
                 className="ml-2 text-sm px-3 py-2 ring-1 ring-gray-700 rounded"
                 target="_blank"
                 rel="noreferrer"
