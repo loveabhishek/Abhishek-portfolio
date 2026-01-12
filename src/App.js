@@ -173,7 +173,7 @@ export default function App() {
             <p className="text-gray-300">SQL, MongoDB</p>
           </div>
           <div className="p-6 rounded-xl bg-gray-900/60 border border-gray-800">
-            <h4 className="text-green-400 font-semibold mb-2">Frameworks and Library</h4>
+            <h4 className="text-green-400 font-semibold mb-2">Frameworks and Libraries</h4>
             <p className="text-gray-300">React, Node.js, Express.js</p>
           </div>
         </div>
@@ -275,13 +275,13 @@ export default function App() {
             </p>
             <div className="mt-4">
               <a
-                href="#"
+                href="https://ai-workflow-automation-platform-eqo.vercel.app"
                 className="text-sm px-3 py-2 ring-1 ring-gray-700 rounded"
               >
                 Live
               </a>
               <a
-                href="https://ai-workflow-automation-platform-eqo.vercel.app/"
+                href="https://github.com/loveabhishek/"
                 className="ml-2 text-sm px-3 py-2 ring-1 ring-gray-700 rounded"
                 target="_blank"
                 rel="noreferrer"
